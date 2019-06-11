@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CyrilTools</string>
+    <string name="active_display">Active Display</string>
+    <string name="notification_listener_switch_title">Enable active display</string>
+    <string name="indicator_switch_summary">Show indicator in status bar</string>
+    <string name="indicator_switch_title">Enable indicator</string>
+    <string name="show_system_apps">Show system apps</string>
+    <string name="exclusions_title">Excluded apps</string>
+    <string name="exclusions_summary">Excluded from active display</string>
+    <string name="menu_select_all">Select all</string>
+    <string name="menu_commit">Commit</string>
+    <string name="menu_select_image">select image</string>
+    <string name="menu_save_image">save image</string>
+    <string name="menu_reset">reset</string>
+    <string name="button_encode">encode</string>
+    <string name="button_convert">convert</string>
+    <string name="button_clear">clear</string>
+    <string name="hint_content">Enter</string>
+    <string name="hint_normal">Enter normal text</string>
+    <string name="hint_special">Enter complex text</string>
+    <string-array name="text_convert_options">
+        <item>Unicode</item>
+        <item>Base64</item>
+        <item>Morse</item>
+        <item>Url</item>
+    </string-array>
+</resources>
